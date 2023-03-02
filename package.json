@@ -21,7 +21,7 @@
     "express": "^4.16.2",
     "fs": "*",
     "http": "*",
-    "lite-server": "^2.3.0",
+    "lite-server": "^2.6.1",
     "particles.js": "^2.0.0"
   }
 }
